@@ -2,7 +2,7 @@
   "name": "http-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/parasverma02.github.io/My-Demo-ghPages-Deploy.git",
+  "homepage": "https://github.com/parasverma02.github.io/My-Demo-ghPages-Deploy.git/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
