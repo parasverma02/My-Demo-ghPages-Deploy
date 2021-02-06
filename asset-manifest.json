@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parasverma02/My-Demo-ghPages-Deploy.git/static/css/main.c662a660.chunk.css",
+    "main.js": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/main.ffd9812e.chunk.js",
+    "main.js.map": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/main.ffd9812e.chunk.js.map",
+    "runtime-main.js": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/runtime-main.a5bfd379.js",
+    "runtime-main.js.map": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/runtime-main.a5bfd379.js.map",
+    "static/js/2.1fc416e1.chunk.js": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/2.1fc416e1.chunk.js",
+    "static/js/2.1fc416e1.chunk.js.map": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/2.1fc416e1.chunk.js.map",
+    "static/js/3.485926ed.chunk.js": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/3.485926ed.chunk.js",
+    "static/js/3.485926ed.chunk.js.map": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/3.485926ed.chunk.js.map",
+    "index.html": "/parasverma02/My-Demo-ghPages-Deploy.git/index.html",
+    "static/css/main.c662a660.chunk.css.map": "/parasverma02/My-Demo-ghPages-Deploy.git/static/css/main.c662a660.chunk.css.map",
+    "static/js/2.1fc416e1.chunk.js.LICENSE.txt": "/parasverma02/My-Demo-ghPages-Deploy.git/static/js/2.1fc416e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bfd379.js",
+    "static/js/2.1fc416e1.chunk.js",
+    "static/css/main.c662a660.chunk.css",
+    "static/js/main.ffd9812e.chunk.js"
+  ]
+}
