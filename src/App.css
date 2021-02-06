@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+.Container {
+    width: 100%;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ListBody {
+    background-color: blanchedalmond;
+    display: flex;
+    flex-flow: column;
+}
+.collapsible {
+    width: 60%;
+    display: flex;
+    flex-flow: column;
+    margin: 15px auto;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.collapsible-button {
+    width: 100%;
+    background-color: rgb(100, 100, 100);
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 15px;
+    height: 50px;
+    margin: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+.collapsible-button:hover,
+.collapsible-button:active,
+.collapsible-button.active {
+    background-color: rgb(68, 67, 67);
+}
+.collapsible-data {
+    background-color: rgb(223, 223, 223);
+    height: auto;
+    transition: height 1s;
+    transition-timing-function: ease-in-out;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.display {
+    display: none;
+    
+}
+.collapsible-data p{
+    padding: 10px 15px;
+    margin: 0;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
